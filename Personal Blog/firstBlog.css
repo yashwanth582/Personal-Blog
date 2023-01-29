@@ -42,7 +42,18 @@ transition: color 0.5s, border-bottom 4s;
  left: 50%;*/
 
 }
-   
+.projects-section {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+.project {
+    margin-bottom: 20px;
+  }
+  
+.project h3 {
+    color: blue;
+  }  
 #name-social{
 	margin-top: 25vh;
 }
